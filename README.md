@@ -1,6 +1,6 @@
 # Week-1-checkpoint-
 
-
+LIVE: https://tjewitt-hub.github.io/Week-1-checkpoint-/
 ## My setup
 - Operating system: Windows
 - Editor: VS Code
@@ -18,4 +18,6 @@
 | 4 | Added an About me section | Add about me section | main |
 | 5 | Added a list of things I like | Add list of things I like | main |
 | 6 | Added my goals | Add my goals section | main |
+| 7 | Updated image and added link | Add image and link | main |
+| 8 | Updated ACP | Update the ACP log | main |
 
